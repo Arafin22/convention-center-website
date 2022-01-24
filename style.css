@@ -3,3 +3,11 @@
   height: 80vh;
   object-fit: cover;
 }
+.toster-parent {
+  position: relative;
+}
+.toaster {
+  position: absolute;
+  top: 80px;
+  left: 170px;
+}

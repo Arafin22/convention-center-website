@@ -11,3 +11,19 @@
   top: 80px;
   left: 170px;
 }
+
+.new-parent {
+  position: relative;
+}
+.new-child {
+  position: absolute;
+  top: -6%;
+  left: 70%;
+  padding: 7px;
+  border-radius: 15px;
+}
+
+.custom-color {
+  background-color: #f0bbdd;
+  border-radius: 50%;
+}
